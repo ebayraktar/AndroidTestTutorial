@@ -19,7 +19,7 @@ class HomeFragment : Fragment() {
     // onDestroyView.
     private val binding get() = _binding!!
 
-    private val viewModel by viewModels<HomeViewModel>()
+    val viewModel by viewModels<HomeViewModel>()
 
     override fun onCreateView(
         inflater: LayoutInflater,
@@ -44,7 +44,7 @@ class HomeFragment : Fragment() {
         }
     }
 
-    private fun operate(
+    fun operate(
         text1: String,
         text2: String,
     ) {
