@@ -3,4 +3,9 @@
     <string name="title_home">Home</string>
     <string name="title_dashboard">Dashboard</string>
     <string name="title_notifications">Notifications</string>
+    <string name="first_number">First Number</string>
+    <string name="second_number">Second Number</string>
+    <string name="calculate">Sum</string>
+    <string name="invalid_input">Invalid Input</string>
+    <string name="result">Result</string>
 </resources>
