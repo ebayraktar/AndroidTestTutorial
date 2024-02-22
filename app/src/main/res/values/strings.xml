@@ -8,4 +8,5 @@
     <string name="calculate">Sum</string>
     <string name="invalid_input">Invalid Input</string>
     <string name="result">Result</string>
+    <string name="copyright">copyright 2024</string>
 </resources>
